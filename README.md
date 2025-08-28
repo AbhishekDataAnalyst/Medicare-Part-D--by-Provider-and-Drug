@@ -29,7 +29,7 @@ Data is collected from data.cms.gov. Go to data.cms.gov -> explore data -> in th
 - Reproducible objectives (1-9): SQL + Python outputs saved to /outputs as CSV + PNG charts.
 - Actionable insights: Market concentration, prescriber influence, geographic inefficiencies, ageing impact, and generic gap.
 
-# Interpretation (executive summary)
+# Interpretation
 
 1. Market Concentration: Pharma revenues rely heavily on a few blockbuster speciality drugs.
 2. Prescriber Influence: Certain high-volume prescribers or specialities disproportionately affect cost trends.
@@ -37,7 +37,7 @@ Data is collected from data.cms.gov. Go to data.cms.gov -> explore data -> in th
 4. Ageing Population Impact: The 65+ cohort sustains demand for cardiovascular, metabolic, and neurological drugs.
 5. Generic Gap: Where generics exist, they are underutilized in specific states or specialities → wasted cost savings.
 
-# Business impacts (who should do what)
+# Business impacts
 
 1. For Payers (CMS / Insurers)
     - Expand generic substitution mandates where evidence supports equivalent efficacy.
