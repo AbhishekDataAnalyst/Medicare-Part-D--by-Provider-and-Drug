@@ -14,10 +14,10 @@ Data is collected from data.cms.gov. Go to data.cms.gov -> explore data -> in th
 
 # Objectives 
 1. Identify top prescribers by total drug cost.
-2. Compare brand vs. generic utilization and costs by provider type.
+2. Compare brand vs. generic utilisation and costs by provider type.
 3. Rank specialities by prescribing volume and beneficiary reach.
 4. Profile state-level prescribing across states.
-5. Find drugs with the highest 65+ utilization and contrast with the overall.
+5. Find drugs with the highest 65+ utilisation and contrast with the overall.
 6. Flag high-cost drugs via average cost per beneficiary.
 7. Rank prescribers by unique beneficiaries served, with drill-down by drug type.
 8. Compare cost distribution across specialities, highlighting outliers via percentiles/window stats.
@@ -58,4 +58,9 @@ Data is collected from data.cms.gov. Go to data.cms.gov -> explore data -> in th
     - Implement prescription stewardship programs for costly drug classes.
     - Educate providers on cost-effective prescribing alternatives.
     - Monitor prescriber-level outliers for quality and compliance risks.
-  
+
+# How to tweak this project
+Since this is an example project, I'd strongly recommend that the readers clone this project and make their own changes according to their convenience. 
+
+# Find bugs
+If you found an issue or if you feel that some improvements are required, then please submit your issues in the issue tab.
